@@ -32,7 +32,7 @@ export async function Vision() {
         </BoxReveal>
 
         <BoxReveal boxColor={"#5046e6"} duration={0.5}>
-          <Button className="mt-[1.6rem] bg-[#5046e6]">Explore</Button>
+          <Button className="mt-[1.6rem] bg-[#33e256] hover:bg-purple-700 text-black hover:text-white border-spacing-1 transition-all ease-in-out">Explore</Button>
         </BoxReveal>
       </ShineBorder>
     </div>
