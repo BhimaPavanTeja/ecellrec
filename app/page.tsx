@@ -25,7 +25,7 @@ export default function Home() {
       {/* Main Content */}
       <div className="relative flex flex-col items-center justify-center h-screen w-full overflow-hidden">
         <span className="pointer-events-none p-5 mb-64 z-10 bg-gradient-to-b from-yellow-400 via-pink-500 to-purple-600 bg-clip-text text-center text-6xl md:text-8xl font-extrabold tracking-tight text-transparent">
-          E-cell <br/> Raghu Engineering College
+          E-Cell <br/> Raghu Engineering College
         </span>
 
         {/* Background Grid */}
